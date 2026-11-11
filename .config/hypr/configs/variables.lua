@@ -1,0 +1,6 @@
+mainMod = "SUPER"
+terminal    = "kitty"
+fileManager = "dolphin"
+menu        = "hyprlauncher"
+browser     = "firefox"
+launcher    = "rofi -show drun -show-icons"
